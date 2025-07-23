@@ -1,0 +1,60 @@
+PIRUTHVIN M
+67/1 Kottamuthampalayam, Dharapuram 638572
++91-8754481778 | piruthvinarun@gmail.com
+GitHub: piruthvin | LeetCode: piruthvin
+
+EDUCATION
+Karpagam Institute of Technology, Coimbatore
+B.Tech in Electronics and Communication Engineering
+2023 – 2027 | CGPA: 7.89
+
+Ponnu Matriculation Higher Secondary School, Dharapuram
+HSC & SSLC
+2020 – 2023 | Percentage: 86%
+
+PROJECTS
+SolveIQ — Full-Stack Educational Platform
+• Developed quiz platform with Spring Boot, React, Flutter
+• Implemented JWT authentication, role-based access control, REST APIs, real-time analytics
+• Features: classroom management, leaderboards, AI chatbot, quiz creation with insights
+• Technologies: Spring Boot, React, Flutter, MySQL, JWT
+
+Migrant Mitra — Tech for Social Good
+• Flutter mobile app for migrants with multilingual support
+• Integrated Aadhaar OTP, offline access, biometric login
+• Spring Boot backend with IPFS for decentralized document storage
+• Technologies: Flutter, Spring Boot, IPFS, MySQL
+
+DocVault — Personal Document Manager
+• Secure Flutter app with PIN login, offline access, theme customization
+• Backup/restore functionality via JSON, security Q&A for recovery
+• Used Hive for local storage, integrated file picker
+• Technologies: Flutter, Hive, JSON, File Picker
+
+CERTIFICATIONS
+• AWS Cloud Practitioner Essentials | AWS Training and Certification | June 2025
+• Software Developer – Product Development | NASSCOM + Bosscoder Software Services Pvt. Ltd. | April 2025
+• Enterprise Design Thinking – Practitioner & Co-Creator | IBM | April 2024
+• GOLANG Intermediate Certificate | HackerRank | June 2025
+• Problem Solving – Intermediate Certificate | HackerRank | March 2025
+• ExpEYES Training Certificate | IIT Bombay – Spoken Tutorial Project | November 2024
+
+TECHNICAL SKILLS
+Languages: Java, Python, C++, Golang, Dart
+Frontend/Backend: HTML, CSS, JavaScript, Spring Boot, React, Flutter
+Tools: GitHub, IntelliJ IDEA, VS Code
+Concepts: Data Structures & Algorithms, Version Control, REST APIs
+
+SOFT SKILLS
+Problem-Solving, Critical Thinking, Adaptability, Collaboration
+Time Management, Leadership, Creativity, Accountability
+
+LANGUAGES
+English, Tamil
+
+INTERESTS
+• Full-Stack Development
+• Mobile App Development
+• Cloud Computing
+• Social Impact Technology
+• Open Source Contribution 
